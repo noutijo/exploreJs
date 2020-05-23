@@ -3,8 +3,6 @@
 
 `miniCalculator` is a responsive web _application_ that allows us to perform _basic operations_.
 
-> For more information,your can join us using this link: [nooutidev](http://oreolnoumodongdesign.000webhostapp.com/)
-
 #### [`Part of code example`]
 
 ```js
