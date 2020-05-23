@@ -1,6 +1,3 @@
-# exploreJs
-
-Here i explore Javascript from scratch.
 
 # **MiniCalculator** [![Build Status](https://travis-ci.org/facebook/flipper.svg?branch=master)](https://travis-ci.org/facebook/flipper)
 
