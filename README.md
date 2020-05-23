@@ -41,7 +41,7 @@ function displayResult() {
 }
 ```
 
-# Illustion
+# Illustration
 
 ###### [`Look this first image`]
 
