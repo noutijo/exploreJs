@@ -1,5 +1,5 @@
 
-# **MiniCalculator** [![Build Status](https://travis-ci.org/facebook/flipper.svg?branch=master)](https://travis-ci.org/facebook/flipper)
+# **checkIfValideSignUp** [![Build Status](https://travis-ci.org/facebook/flipper.svg?branch=master)](https://travis-ci.org/facebook/flipper)
 
 `checkIfValideSignUp` is a responsive web _application_ that permit us to check sign up fields have the correts values by using _Regular Expression_.
 
