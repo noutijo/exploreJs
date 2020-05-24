@@ -1,39 +1,12 @@
 
 # **MiniCalculator** [![Build Status](https://travis-ci.org/facebook/flipper.svg?branch=master)](https://travis-ci.org/facebook/flipper)
 
-`miniCalculator` is a responsive web _application_ that allows us to perform _basic operations_.
+`checkIfValideSignUp` is a responsive web _application_ that permit us to check sign up fields have the correts values by using _Regular Expression_.
 
 #### [`Part of code example`]
 
 ```js
-function displayResult() {
-  var firstNumber = document.getElementById("firstNumber");
-  var secondNumber = document.getElementById("secondNumber");
-  var finalResult = document.getElementById("finalResult");
-  var operation = document.getElementById("operation");
 
-  var valueOne = firstNumber.value;
-  var valueTwo = secondNumber.value;
-  var opera = operation.value;
-
-  if (valueOne != "" && valueTwo != "") {
-    if (parseInt(valueTwo) != 0 || opera != "division") {
-      // Called calculated() function
-
-      if (!isNaN(calculated(valueOne, valueTwo, opera))) {
-        finalResult.innerHTML = calculated(valueOne, valueTwo, opera);
-      } else {
-        showPopop(
-          "There must be an error with the values entered. Please check and try again. "
-        );
-      }
-    } else {
-      showPopop("We cannot divide a number by zero. ");
-    }
-  } else {
-    showPopop("You have one or two empty fields. Please check and try again. ");
-  }
-}
 ```
 
 # Illustration
