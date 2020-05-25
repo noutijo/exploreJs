@@ -217,6 +217,16 @@ input[type="button"]:hover {
         float: none;
     }
 
+    .input-right {
+        float: none;
+        width: 100%;
+    }
+
+    .input-left {
+        float: none;
+        width: 100%;
+    }
+
     input[type="button"] {
         font-size: 12px;
     }
