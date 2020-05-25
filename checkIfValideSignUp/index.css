@@ -134,7 +134,7 @@ select {
 /*INPUT -BUTTON CSS*/
 
 input[type="button"] {
-    background-color: palevioletred;
+    background-color: #2eb5bb;
     border-radius: 100px;
     border-color: transparent;
     color: white;
@@ -148,18 +148,22 @@ input[type="button"] {
 }
 
 input[type="button"]:hover {
-    background-color: rgb(190, 55, 100);
+    background-color: #2eb5bb;
 }
 
 /*******/
 
 .color-pink {
-    color: palevioletred;
+    color: #2eb5bb;
     font-weight: bold;
 }
 
 .color-pinks {
-    color: palevioletred;
+    color: #2eb5bb;
+}
+
+.color-yellow {
+    color: #f9bc41;
 }
 
 .bg-black {

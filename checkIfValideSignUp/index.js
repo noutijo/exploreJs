@@ -23,7 +23,7 @@ document.getElementById('root').innerHTML =
 
        <div class="main">
 
-       <p class= "title">  <span class="color-pink"> CHECK  </span>  <span class="bg-black"> ifValideSignUp </span> </p>
+       <p class= "title">  <span class="color-yellow"> CHECK  </span>  <span class="bg-black"> ifValideSignUp </span> </p>
        
        <div class="block-input">
          <span>Email adress  </span>
