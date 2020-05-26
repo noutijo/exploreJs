@@ -19,8 +19,6 @@ document.getElementById('root').innerHTML =
 
     </div>
 
-  
-
        <div class="main">
 
        <p class= "title">  <span class="color-yellow"> CHECK  </span>  <span class="bg-black"> ifValideSignUp </span> </p>
@@ -61,7 +59,7 @@ document.getElementById('root').innerHTML =
 
        <div class= "block-input">
            <span>Date of birth  </span>
-           <input type="text" id="firstNumber">
+           <input type="text" id="firstNumber" placeholder="DD-MM-YYYY">
            <span class="color-pink" id="invalidFirstName"> There must be an error  </span> 
        </div>
 
